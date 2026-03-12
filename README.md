@@ -171,8 +171,8 @@ main.js
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/laddtnov/css-solar-system-ultimate.git
-cd css-solar-system-ultimate
+git clone https://github.com/laddtnov/interactive-solar-system.git
+cd interactive-solar-system
 ```
 
 2. **Open in browser**
@@ -194,7 +194,7 @@ That's it! No build process, no dependencies. 🎉
 1. Push code to GitHub
 2. Go to **Settings → Pages**
 3. Select **Deploy from main branch**
-4. Access at `https://yourusername.github.io/css-solar-system-ultimate/`
+4. Access at `https://yourusername.github.io/interactive-solar-system/`
 
 ---
 
